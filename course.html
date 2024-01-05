@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Website Design</title>
+    <link rel="stylesheet" href="about.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+
+</head>
+<body>
+<section class="sub-header">
+    <nav>
+        <a href="Index.html"><img src="/images/logo1-removebg-preview.png"></a>
+        <div class="nav-links" id="navLinks"> <!--15-->
+            <i class="fa fa-times" onclick="hideMenu()"></i>
+            <ul>
+                <li><a href="Index.html">HOME</a></li>
+                <li><a href="about.html">ABOUT</a></li>
+                <li><a href="course.html">COURSE</a></li>
+                <li><a href="blog.html">BLOG</a></li>
+                <li><a href="contact.html">CONTACT</a></li>
+            </ul>
+        </div>
+        <i class="fa fa-bars"  onclick="showMenu()"></i>
+    </nav>
+    <h1>Our Courses</h1>
+</section>
+
+<!-- Course -->
+
+<section class="course">
+    <h1>Courses We Offer</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p> 
+
+    <div class="row">
+        <div class="course-col">
+            <h3>Intermediate</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui labore, odit quaerat exercitationem est ut necessitatibus suscipit tempora. Animi adipisci blanditiis quod dicta in voluptates iure dignissimos quae aut magnam!</p>
+        </div>
+        <div class="course-col">
+            <h3>Degree</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui labore, odit quaerat exercitationem est ut necessitatibus suscipit tempora. Animi adipisci blanditiis quod dicta in voluptates iure dignissimos quae aut magnam!</p>
+        </div>
+        <div class="course-col">
+            <h3>Post Graduation</h3>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui labore, odit quaerat exercitationem est ut necessitatibus suscipit tempora. Animi adipisci blanditiis quod dicta in voluptates iure dignissimos quae aut magnam!</p>
+        </div>
+    </div>
+    
+
+</section>
+
+<!-- facilities -->
+<section class="facilities">
+    <h1>Our Facilities</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+
+    <div class="row">
+        <div class="facilities-col">
+            <img src="/images/Admission.jpg">
+            <h3>World Class Library</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi omnis recusandae, tempore est nesciunt facilis at iusto tenetur, repudiandae culpa aut blanditiis possimus? Quam iure omnis ex placeat odit doloremque.</p>
+        </div>
+        <div class="facilities-col">
+            <img src="/images/Ground top view.jpg">
+            <h3>Playground</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi omnis recusandae, tempore est nesciunt facilis at iusto tenetur, repudiandae culpa aut blanditiis possimus? Quam iure omnis ex placeat odit doloremque.</p>
+        </div>
+        <div class="facilities-col">
+            <img src="/images/cafeteria.png">
+            <h3>Tasty and Healthy Food</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi omnis recusandae, tempore est nesciunt facilis at iusto tenetur, repudiandae culpa aut blanditiis possimus? Quam iure omnis ex placeat odit doloremque.</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="facilities-col">
+            <img src="/images/Department of CSE.avif">
+            <h3>CSE Department</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis distinctio laudantium quaerat incidunt voluptate amet doloremque exercitationem aliquam consectetur, inventore repudiandae, consequuntur, ut voluptatem hic officiis! Explicabo nesciunt eaque delectus</p>
+        </div>
+    <div class="facilities-col">
+        <img src="/images/Garden.avif">
+        <h3>Garden</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore libero alias dolore, tempore minima sunt velit vel explicabo deleniti minus iure voluptate perspiciatis, provident cum error quisquam quod tenetur veniam.</p>
+    </div>
+    <div class="facilities-col">
+        <img src="/images/Linga.avif">
+        <h3>Sharana Basaveshwara Linga</h3>
+        <p>Shri Sharana Basaveshwara was a Lingayath Saint renowned for his Kayak and Dasoha. Dasoha meant Charity. According to Lingayath Dasoha meant that one must work hard selflessly and work for the society. Whatever belonged to the society must go to the society without any discrimination.</p>
+    </div>
+    </div>
+
+
+</section>
+
+
+
+
+<!-- Footer -->
+
+<section class="footer">
+    <h4>About Us</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam, architecto dignissimos. Aspernatur officia quos, id, numquam necessitatibus ea expedita<br>anostrum laboriosam ipsum facilis quis fugiat officiis ab odio! Culpa, obcaecati?</p>
+    <div class="icons"> <!-- 1:008:59 -->
+        <i class="fa-brands fa-facebook"></i>
+        <i class="fa-brands fa-twitter"></i>
+        <i class="fa-brands fa-instagram"></i>
+        <i class="fa-brands fa-linkedin-in"></i>
+    </div>
+    <p>Made with <i class="fa-regular fa-heart"></i> by LRP (Laxmi, Rohit, Pallavi, Purush) </p>
+</section>
+
+
+<!--JavaScript for Toggle Menu-->
+<script><!--37-->
+
+    var navLinks=document.getElementById("navLinks");
+    function showMenu(){
+        navLinks.style.right ="0";
+    }
+    function hideMenu(){
+        navLinks.style.right ="-200px";
+    }
+
+</script>
+
+</body>
+</html>
