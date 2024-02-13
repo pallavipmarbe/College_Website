@@ -83,7 +83,7 @@ nav .fa{
     .text-box h1{
         font-size: 20px;
     }
-    
+    .nav-links ul li{ /*88*/
         display: block;
     }
     .nav-links{ /*95*/
