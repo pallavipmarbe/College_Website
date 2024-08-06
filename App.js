@@ -10,6 +10,4 @@
 0
 -
 packageo
-InputDeviceInfoy
-SVGComponentTransferFunctionElemente
-debu
+InputDev
