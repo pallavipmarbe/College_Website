@@ -15,7 +15,4 @@ SVGComponentTransferFunctionElemente
 debuggerv
 breakm
 ;
-onwebkitanimationiteration5
-5
-4
-removeEventL
+onwebkitanimationite
