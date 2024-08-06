@@ -20,7 +20,4 @@ onwebkitanimationiteration5
 4
 removeEventListenerrfg
 
-break 
-breakb
-g
-removeEventList
+break
