@@ -23,6 +23,4 @@ removeEventListenerrfg
 break 
 breakb
 g
-removeEventListenertt
-7
-Uint8
+removeEventList
