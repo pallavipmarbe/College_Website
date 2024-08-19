@@ -1,2 +1,1 @@
-#include<stdio.h>
-typede
+#include<stdio
