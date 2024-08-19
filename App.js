@@ -14,5 +14,4 @@ void print_poly(POLY p[], int n)
             printf("+");
         printf("%d",p[i].cf);
         }
-        if(p[i].px!=0)
-        printf("x^%d", p[i].
+        i
