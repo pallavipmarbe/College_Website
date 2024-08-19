@@ -11,7 +11,4 @@ void print_poly(POLY p[], int n)
         if(p[i].cf!=0)
         {
             if(i>0 && p[i].cf>0)
-            printf("+");
-        printf("%d",p[i].cf);
-        }
-        i
+            print
