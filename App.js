@@ -319,14 +319,3 @@ h3{
     width: 80%;
     margin: auto;
 }
-.contact-col{
-    flex-basis: 48%;
-    margin-bottom: 30px;
-}
-.contact-col div{
-    display: flex;
-    align-items: center;
-    margin-bottom: 40px;
-}
-.contact-col div .fa{
- 
