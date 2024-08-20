@@ -329,25 +329,4 @@ h3{
     margin-bottom: 40px;
 }
 .contact-col div .fa{
-    font-size: 28px;
-    color: #f44336;
-    margin: 10px;
-    margin-right: 30px;
-}
-.contact-col div p{
-    padding: 0;
-}
-.contact-col div h5{
-    font-size: 20px;
-    margin-bottom: 5px;
-    color: #555;
-    font-weight: 400;
-}
-.contact-col input, .contact-col textarea{
-    width: 100%;
-    padding: 15px;
-    margin-bottom: 17ox;
-    outline: none;
-    border: 1px solid #ccc;
-    box-sizing: border-box;
-}
+ 
