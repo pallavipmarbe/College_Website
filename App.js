@@ -211,34 +211,4 @@ h3{
 .course-col:hover{
     box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
-@media(max-width: 700px){
-    .row{
-        flex-direction: column;
-    }
-}
-/* Facilities */
-.facilities{
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    padding-top: 100px;
-}
-.facilities-col{
-    flex-basis: 31%;
-    border-radius: 10px;
-    margin-bottom: 5%;
-    text-align: left;
-}
-.facilities-col img {
-    width: 100%;
-    border-radius: 10px;
-}
-.facilities-col p{
-    padding: 0;
-}
-.facilities-col h3{
-    margin-top: 16px;
-    margin-bottom: 15px;
-    text-align: left;
-}
-/
+@
