@@ -163,33 +163,4 @@ nav .fa{
     padding: 15px 0 25px;
 }
 .red-btn{
-    border: 1px solid #f44336;
-    background: transparent;
-    color: #f44336;
-}
-.red-btn:hover{
-    color: #fff;
-}
-
-/* course */
-.course{
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    padding-top: 100px; 
-}
-h1{
-    font-size: 36px;
-    font-weight: 600;
-}
-p{
-    color: #777;
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 22px;
-    padding: 10px;
-}
-.row{
-    margin-top: 5%;
-    display: flex;
  
