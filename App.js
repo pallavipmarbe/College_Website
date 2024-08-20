@@ -298,24 +298,4 @@ h3{
     background: #f0f0f0;
 }
 .comment-form button{
-    margin: 10px o;
-}
-@media(max-width:700px){
-    .sub-header h1{
-        font-size: 24px;
-    }
-}
-
-/* Contact Us page */
-.location{
-    width: 80%;
-    margin: auto;
-    padding: 80px 0;
-}
-.location iframe{
-    width: 100%;
-}
-.contact-us{
-    width: 80%;
-    margin: auto;
-}
+ 
