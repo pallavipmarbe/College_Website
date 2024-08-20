@@ -69,34 +69,4 @@ nav img{
     font-size: 13px;
     background: transparent;
     position: relative;
-    cursor: pointer;
-}
-.hero-btn:hover{ /*78*/
-    border: 1px solid #f44336;
-    background: #f44336;
-    transition: 1s;
-}
-nav .fa{
-    display: none;
-}
-@media(max-width: 700px){ /*84*/
-    .text-box h1{
-        font-size: 20px;
-    }
-    .nav-links ul li{ /*88*/
-        display: block;
-    }
-    .nav-links{ /*95*/
-        position: fixed;
-        background: #f44336;
-        height: 100vh;
-        width: 200px;
-        top: 0;
-        right: -200px;
-        text-align: left;
-        z-index: 2; /*24:24*/
-        transition: 1s;
-    }
-    nav .fa{
-        display: block;
  
