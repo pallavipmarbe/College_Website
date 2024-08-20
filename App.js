@@ -24,29 +24,4 @@
         height: 100%;
     }
 } 
-nav{
-    display: flex;
-    padding: 2% 6%;
-    justify-content: space-between;
-    align-items: center;
-}
-nav img{
-    width: 100px;
-}
-.nav-links{ 
-    flex: 1;
-    text-align: right;
-}
-.nav-links ul li{ 
-    list-style: none;
-    display: inline-block;
-    padding: 8px 12px;
-    position: relative;
-}
-.nav-links ul li a{ 
-    color: #fff;
-    text-decoration: none;
-    font-size: 13px;
-}
-.nav-links ul li ::after{ 
- 
+n
