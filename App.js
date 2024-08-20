@@ -241,19 +241,4 @@ h3{
     margin-bottom: 15px;
     text-align: left;
 }
-/* blog content */
-.blog-content{
-    width: 80%;
-    margin: auto;
-    padding: 60px 0;
-}
-.blog-left{
-    flex-basis: 65%;
-}
-.blog-left img{
-    width: 100%;
-}
-.blog-left h2{
-    color: #222;
-    font-weight: 600;
- 
+/
