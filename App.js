@@ -192,23 +192,4 @@ p{
 .row{
     margin-top: 5%;
     display: flex;
-    justify-content: space-between;
-}
-.course-col{
-    flex-basis: 31%;
-    background: lightgoldenrodyellow;
-    border-radius: 10px;
-    margin-bottom: 5%;
-    padding: 20px 12px;
-    box-sizing: border-box;
-    transition: 0.5s;
-}
-h3{
-    text-align: center;
-    font-weight: 600;
-    margin: 10px 0;
-}
-.course-col:hover{
-    box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
-}
-@
+ 
