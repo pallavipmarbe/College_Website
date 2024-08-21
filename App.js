@@ -15,12 +15,4 @@
         <div class="nav-links" id="navLinks"> <!--15-->
             <i class="fa fa-times" onclick="hideMenu()"></i>
             <ul>
-                <li><a href="Index.html">HOME</a></li>
-                <li><a href="about.html">ABOUT</a></li>
-                <li><a href="course.html">COURSE</a></li>
-                <li><a href="blog.html">BLOG</a></li>
-                <li><a href="contact.html">CONTACT</a></li>
-            </ul>
-        </div>
-        <i class="fa fa-bars"  onclick="showMenu()"></i>
     
