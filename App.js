@@ -47,13 +47,3 @@
         </div>
     </div>
     
-
-</section>
-
-<!-- facilities -->
-<section class="facilities">
-    <h1>Our Facilities</h1>
-
-    <div class="row">
-        <div class="facilities-col">
-       
