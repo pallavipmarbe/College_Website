@@ -90,17 +90,4 @@
     </div>
     <div class="facilities-col">
         <img src="/images/Linga.avif">
-        <h3>Sharana Basaveshwara Linga</h3>
-        <p>Shri Sharana Basaveshwara was a Lingayath Saint renowned for his Kayak and Dasoha. Dasoha meant Charity. According to Lingayath Dasoha meant that one must work hard selflessly and work for the society. Whatever belonged to the society must go to the society without any discrimination.</p>
-    </div>
-    </div>
-
-
-</section>
-
-
-
-
-<!-- Footer -->
-
-<sectio
+       
