@@ -5,14 +5,4 @@
     <title>University Website Design</title>
     <link rel="stylesheet" href="about.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
-
-</head>
-<body>
-<section class="sub-header">
-    <nav>
-        <a href="Index.html"><img src="/images/logo1-removebg-preview.png"></a>
-        <div class="nav-links" id="navLinks"> <!--15-->
-            <i class="fa fa-times" onclick="hideMenu()"></i>
-            <ul>
     
