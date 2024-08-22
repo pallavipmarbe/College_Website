@@ -53,21 +53,3 @@
                     <p>Tuesday to Sunday, 10AM to 5PM</p>
                 </span>
             </div>
-            <div>
-                <i class="fa fa-envelope-o"></i>
-                <span>
-                    <h5>Sharnbasvauniversity@gmail.com</h5>
-                    <p>Email us your query</p>
-                </span>
-            </div>
-        </div>
-        <div class="contact-col">
-
-            <form action="form-handler.php" method="post">
-                <input type="text" name="name" placeholder="Enter your name" required>
-                <input type="email" name="emil" placeholder="Enter Email address" required>
-                <input type="text" name="subject" placeholder="Enter your subject" required>
-                <textarea rows="8" name="message" placeholder="Message" required></textarea>
-                <button type="submit" class="hero-btn red-btn">Send Message</button>
-            </form>
-
