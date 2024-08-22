@@ -71,13 +71,3 @@
                 <button type="submit" class="hero-btn red-btn">Send Message</button>
             </form>
 
-
-            
-        </div>
-    </div>
-
-</section>
-
-<!-- Footer -->
-
-<sectio
