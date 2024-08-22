@@ -11,9 +11,3 @@
 <body>
 <section class="sub-header">
     <nav>
-        <a href="Index.html"><img src="/images/logo1-removebg-preview.png"></a>
-        <div class="nav-links" id="navLinks"> <!--15-->
-            <i class="fa fa-times" onclick="hideMenu()"></i>
-            <ul>
-                <li><a href="Index.html">HOME</a></li>
-                <li><a href="about.html">ABOUT</a></li>
