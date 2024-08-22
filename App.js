@@ -43,13 +43,3 @@
                 <i class="fa fa-home"></i>
                 <span>
                     <h5>Sharnbasva university, vidya nagar, kalburagi 585-103</h5>
-                    <p>Kalaburagi, Karnataka, IN</p>
-                </span>
-            </div>
-            <div>
-                <i class="fa fa-phone"></i>
-                <span>
-                    <h5>+91 9886689209</h5>
-                    <p>Tuesday to Sunday, 10AM to 5PM</p>
-                </span>
-            </div>
