@@ -23,10 +23,4 @@
             </ul>
         </div>
         <i class="fa fa-bars"  onclick="showMenu()"></i>
-    </nav>
-    <h1>About Us</h1>
-</section>
-
-<!-- about us content -->
-
-<sectio
+    </n
