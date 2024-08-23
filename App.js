@@ -29,7 +29,4 @@
 
 <!-- about us content -->
 
-<section class="about-us">
-
-    <div class="row">
-       
+<sectio
