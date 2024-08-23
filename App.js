@@ -10,7 +10,4 @@
 </head>
 <body>
 <section class="sub-header">
-    <nav>
-        <a href="Index.html"><img src="/images/logo1-removebg-preview.png"></a>
-        <div class="nav-links" id="navLinks"> <!--15-->
-       
+    <na
