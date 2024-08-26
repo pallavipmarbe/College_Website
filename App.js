@@ -159,19 +159,4 @@ Sharnbasva University, Kalaburagi</p>
             </div>
 
 
-        </section>
-        
-<!-- Testimonials -->
-
-<section class="testimonials">
-    <h1>What Our Student says</h1>
-
-    <div class="row">
-        <div class="testimonial-col">
-            <img src="/images/Raashi.PNG">
-            <div>
-                <p>I've found my academic journey to be incredibly enriching and transformative. The university provides a stimulating and inclusive environment that encourages critical thinking and innovation. The faculty members are not only experts in their fields but also passionate about guiding students towards success. The diverse range of courses and extracurricular activities has allowed me to explore my interests and develop a well-rounded skill set. The university's commitment to research and hands-on learning has provided me with valuable practical experiences, preparing me for the challenges of the real world. Additionally, the supportive community at Sharnbasava University has made my time here truly memorable. From engaging lectures to collaborative projects, I feel well-equipped and confident as I approach graduation. I'm proud to be a part of this academic community that fosters growth, curiosity, and a commitment to excellence."</p>
-                <h3>Raashi</h3>
-                <i class="fa-solid fa-star"></i> <!--1:00:05-->
-                <i class="fa-solid fa-star"></i>
        
