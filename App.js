@@ -28,7 +28,7 @@
             <i class="fa fa-bars"  onclick="showMenu()"></i>
         </nav>
         <div class="text-box">
-            <h1>Sharnbasava University</h1>
+         <h1>Sharnbasava University</h1>
             <p>A Private University enacted by Govt. of Karnataka as "Sharnbasva University Act 2012" Karnataka Act No.17 of 2013.
              <br>Notification No. ED 144 URC 2016 dated 29/07/2017.</p>
             <a href="" class="hero-btn">Visit Us To Know More</a>
