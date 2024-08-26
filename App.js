@@ -107,14 +107,4 @@
 
                 <div class="facilities-col">
                     <img src="/images/V.D.Mytri.jpg">
-                    <h3>Dr.V.D.Mytri</h3><h6>  M.Tech., Ph.D</h6>
-                    <p> 
-                        Pro Vice-Chancellor of
-                        Sharnbasva University, Kalaburagi</p>
-                </div>
-                <div class="facilities-col">
-                    <img src="/images/Dr.AnilkumarBidve.jpg">
-                    <h3>Dr.Anilkumar Bidve</h3><h6>M.Sc., Ph.D.</h6>
-                    <p>Registrar
-                        Sharnbasva University, Kalaburagi</p>
        
