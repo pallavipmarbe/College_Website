@@ -100,11 +100,4 @@
                 </div>
                 <div class="facilities-col">
                     <img src="/images/Dr.Niranjan Nisty.jpg">
-                    <h3>Dr.Niranjan Nisty<h6>M.D., Ph.D</h6></h3>
-                        <p>The Vice-Chancellor
-                        Sharnbasva University, Kalaburagi</p>
-                </div>
-
-                <div class="facilities-col">
-                    <img src="/images/V.D.Mytri.jpg">
        
