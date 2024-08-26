@@ -92,12 +92,4 @@
         <section class="facilities">
             <h1>Officers of our university</h1>
             <div class="row">
-                <div class="facilities-col">
-                    <img src="/images/Appaji.jpg">
-                    <h3>Poojya Dr. Sharnbaswappa Appa</h3>
-                        <p>Chancellor 
-                        Sharnbasva University, Kalaburagi</p>
-                </div>
-                <div class="facilities-col">
-                    <img src="/images/Dr.Niranjan Nisty.jpg">
        
