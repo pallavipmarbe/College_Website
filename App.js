@@ -188,14 +188,4 @@ Sharnbasva University, Kalaburagi</p>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
                 <i class="fa-solid fa-star"></i>
-                <i class="fa-solid fa-star-half-stroke"></i>
-            </div>
-        </div>
-    </div>
-
-</section>
-
-<!-- Call To Action -->
-
-<section class="cta">
-    <h1
+       
