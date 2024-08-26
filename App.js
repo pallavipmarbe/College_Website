@@ -59,37 +59,4 @@
 
         </section>
 
-        <!--Campus-->
-
-        <section class="campus">
-            <h1>Global Campus</h1>
-            <div class="row">
-                <div class="campus-col">
-                    <img src="/images/godutai.jpg">
-                    <div class="layer">
-                        <h3>GODUTAI ENGINEERING</h3>
-                    </div>
-                </div>
-                <div class="campus-col">
-                    <img src="/images/Appa.JPG">
-                    <div class="layer">
-                        <h3>APPA ENGINEERING</h3>
-                    </div>
-                </div>
-                <div class="campus-col">
-                    <img src="/images/bba.jpg">
-                    <div class="layer">
-                        <h3>SB BSC</h3>
-                    </div>
-                </div>
-
-            </div>
-
-        </section>
-
-        <!--Facilities-->
-
-        <section class="facilities">
-            <h1>Officers of our university</h1>
-            <div class="row">
        
