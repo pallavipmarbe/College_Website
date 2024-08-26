@@ -128,9 +128,4 @@ Sharnbasva University, Kalaburagi</p>
             <div class="row">
                 <div class="facilities-col">
                     <img src="/images/Dr. Lakshmi B Patil.jpg">
-                    <h3>Dr. Lakshmi B Patil</h3><h6> M.Tech., Ph.D</h6>
-                    <p>Dean
-                        Sharnbasva University, Kalaburagi</p>
-                </div>
-                <div class="facilities-col">
        
