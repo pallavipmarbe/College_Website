@@ -117,15 +117,4 @@
                     <h3>Dr.Anilkumar Bidve</h3><h6>M.Sc., Ph.D.</h6>
                     <p>Registrar
                         Sharnbasva University, Kalaburagi</p>
-                </div>
-                <div class="facilities-col">
-                    <img src="/images/N S Devarkal.jpg">
-                    <h3>Sri. N.S.Devarkal</h3><h6>B.Sc., M.A., L.L.B</h6>
-                    <p>Pro Vice-Chancellor
-Sharnbasva University, Kalaburagi</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="facilities-col">
-                    <img src="/images/Dr. Lakshmi B Patil.jpg">
        
