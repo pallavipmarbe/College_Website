@@ -104,21 +104,7 @@
 
 
 
-
-<!-- Footer -->
-
-<section class="footer">
-    <h4>About Us</h4>
-    <p>Established with a vision to provide a transformative education, our college is a vibrant community dedicated to fostering intellectual curiosity, creativity, and a sense of responsibility. At the heart of our institution are our distinguished faculty members, who bring a wealth of expertise to the classroom and inspire students to think critically and push the boundaries of knowledge.</p>
-    <div class="icons"> <!-- 1:008:59 -->
-        <i class="fa-brands fa-facebook"></i>
-        <i class="fa-brands fa-twitter"></i>
-        <i class="fa-brands fa-instagram"></i>
-        <i class="fa-brands fa-linkedin-in"></i>
-    </div>
-</section>
-
-<!--JaaScript for Toggle Menu-->
+aScript for Toggle Menu-->
 <script><!--37-->
 
     var navLinks=document.getElementById("navLinks");
