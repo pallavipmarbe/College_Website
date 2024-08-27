@@ -13,35 +13,3 @@
     <nav>
         <a href="Index.html"><img src="/images/logo1-removebg-preview.png"></a>
         <div class="nav-links" id="navLinks"> <!--15-->
-            <i class="fa fa-times" onclick="hideMenu()"></i>
-            <ul>
-                <li><a href="Index.html">HOME</a></li>
-                <li><a href="about.html">ABOUT</a></li>
-                <li><a href="course.html">COURSE</a></li>
-                <li><a href="blog.html">BLOG</a></li>
-                <li><a href="contact.html">CONTACT</a></li>
-            </ul>
-        </div>
-        <i class="fa fa-bars"  onclick="showMenu()"></i>
-    </nav>
-    <h1>Our Certificate & Online Programs For 2022-23</h1>
-</section>
-
-<!-- blog page content -->
-
-<section class="blog-content">
-
-    <div class="row">
-        <div class="blog-left">
-            <img src="/images/Entrance.jpeg">
-            <h2>Our Certificate & Online Programs For 2022-23</p>
-            <br>
-            <p>Designed to meet the dynamic needs of today's learners, these programs offer a perfect blend of flexibility and academic excellence. Whether you're seeking specialized skills through our Certificate Programs or the convenience of online learning, we have tailored options to suit your aspirations.</p>
-            <p>Our Certificate Programs provide an opportunity to delve deep into specific fields, gaining expertise that empowers you in the competitive job market.Each certificate is crafted with precision, offering a curriculum developed in collaboration with industry experts. These programs cater to diverse career paths, providing a gateway to new opportunities.</p>
-            <br>
-            <p>For those embracing the convenience of online education, our Online Programs for 2022-23 are your passport to knowledge from anywhere in the world. Led by experienced faculty, our online courses maintain the same academic rigor as our on-campus offerings. With flexible schedules and a supportive virtual community, you can balance your educational pursuits with other commitments.</p>
-            <br>
-            <p>Applying to our Certificate & Online Programs is seamless. Explore our offerings, submit your application online, and let our dedicated admissions team guide you through the process. Upon acceptance, you'll join a community of passionate learners, ready to elevate their skills and make a meaningful impact.
-
-                Invest in your future with Sharnbasava University. Whether you're advancing your career or pivoting to a new field, our Certificate & Online Programs set the stage for success. Take the first stepapply now and unlock a world of possibilities.</p>
-
