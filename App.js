@@ -118,7 +118,7 @@
     </div>
 </section>
 
-<!--JavaScript for Toggle Menu-->
+<!--JaaScript for Toggle Menu-->
 <script><!--37-->
 
     var navLinks=document.getElementById("navLinks");
