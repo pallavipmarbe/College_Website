@@ -25,8 +25,3 @@ header("Location: contact.html");
 ?> 
 
 
-
-
-
-
-
