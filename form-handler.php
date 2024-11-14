@@ -46,9 +46,3 @@ $message = $_POST['message'];
 $email_from = 'suk@gmail.com';
 
 $email_subject = 'new Form Submission';
-
-$email_body = "User Name: $name.\n".
-                "User Email: $visitor_email.\n".
-                "Subject: $subject.\n".
-                "User Message: $message.\n";
-
