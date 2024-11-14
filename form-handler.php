@@ -36,7 +36,3 @@ header("Location: contact.html");
 
 
 
-
-
-name'];
-$visitor_email = $_POST['email'];
