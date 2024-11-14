@@ -43,6 +43,3 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_from = 'suk@gmail.com';
-
-$email_subject = 'new Form Submission';
