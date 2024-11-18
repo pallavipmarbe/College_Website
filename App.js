@@ -32,11 +32,4 @@ kgfhgr23`2rurk231l;`
 
 
 
-ppp-=2814WebGLQuery';
-
-
-
-
-
-
-
+ppp-=2814WebGLQuer
